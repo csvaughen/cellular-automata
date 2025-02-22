@@ -1,0 +1,19 @@
+# Ignore PyCharm-specific files
+.idea/
+*.iml
+*.iws
+
+# Ignore user-specific workspace settings
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
